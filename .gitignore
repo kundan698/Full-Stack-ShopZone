@@ -1,29 +1,5 @@
-# Dependencies
-**/node_modules/
-
-# Environment files
-**/.env
-**/.env.local
-**/.env.development
-**/.env.production
-
-# Next.js
-**/.next/
-**/out/
-
-# Playwright reports
-**/playwright-report/
-**/test-results/
-**/blob-report/
-
-# Logs
-**/npm-debug.log*
-**/yarn-debug.log*
-**/pnpm-debug.log*
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Old automation folder
+node_modules/
+.next/
+.env
+.env.local
 /automation-testing/
